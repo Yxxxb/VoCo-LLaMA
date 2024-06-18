@@ -8,9 +8,8 @@ VoCo-LLaMA: This repo is the official implementation of "VoCo-LLaMA: Towards Vis
   <img src='https://img.shields.io/badge/Arxiv-2404.19759-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
   <a href='https://arxiv.org/pdf/2404.19759.pdf'>
   <img src='https://img.shields.io/badge/Paper-PDF-purple?style=flat&logo=arXiv&logoColor=yellow'></a> 
-  <a href='https://dai-wenxun.github.io/MotionLCM-page'>
+  <a href='https://yxxxb.github.io/VoCo-LLaMA-page/'>
   <img src='https://img.shields.io/badge/Project-Page-%23df5b46?style=flat&logo=Google%20chrome&logoColor=%23df5b46'></a> 
-<a href='https://yxxxb.github.io/VoCo-LLaMA-page/'>
 </p>
 
 ## TL;DR
