@@ -1,5 +1,4 @@
 # VoCo-LLaMA: Towards Vision Compression with Large Language Models
-VoCo-LLaMA: This repo is the official implementation of "VoCo-LLaMA: Towards Vision Compression with Large Language Models"
 
 [Xubing Ye](https://github.com/Yxxxb), [Yukang Gan](https://scholar.google.com/citations?user=8rltp9AAAAAJ&hl=zh-CN), [Xiaoke Huang](https://xk-huang.github.io/), [Yixiao Ge](https://geyixiao.com/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), [Yansong Tang](https://andytang15.github.io)
 
