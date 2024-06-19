@@ -50,7 +50,7 @@ pip install -e .
 ```
 pip install -e ".[train]"
 pip install flash-attn --no-build-isolation
-cp /group/40034/xubingye/VoCo-LLaMA/llava/model/language_model/cache_py/modeling_attn_mask_utils.py /data/miniconda3/envs/llava/lib/python3.10/site-packages/transformers/modeling_attn_mask_utils.py
+cp VoCo-LLaMA/llava/model/language_model/cache_py/modeling_attn_mask_utils.py /data/miniconda3/envs/voco_llama/lib/python3.10/site-packages/transformers/modeling_attn_mask_utils.py
 ```
 
 ### Data and Pre-trained weights
