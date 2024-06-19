@@ -3,9 +3,9 @@
 [Xubing Ye](https://github.com/Yxxxb), [Yukang Gan](https://scholar.google.com/citations?user=8rltp9AAAAAJ&hl=zh-CN), [Xiaoke Huang](https://xk-huang.github.io/), [Yixiao Ge](https://geyixiao.com/), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), [Yansong Tang](https://andytang15.github.io)
 
 <p align="left">
-  <a href='https://arxiv.org/abs/2404.19759'>
+  <a href='https://arxiv.org/abs/2406.12275'>
   <img src='https://img.shields.io/badge/Arxiv-2404.19759-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
-  <a href='https://arxiv.org/pdf/2404.19759.pdf'>
+  <a href='https://arxiv.org/pdf/2406.12275'>
   <img src='https://img.shields.io/badge/Paper-PDF-purple?style=flat&logo=arXiv&logoColor=yellow'></a> 
   <a href='https://yxxxb.github.io/VoCo-LLaMA-page/'>
   <img src='https://img.shields.io/badge/Project-Page-%23df5b46?style=flat&logo=Google%20chrome&logoColor=%23df5b46'></a> 
