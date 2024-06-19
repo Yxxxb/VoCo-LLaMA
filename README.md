@@ -19,7 +19,6 @@ VoCo-LLaMA demonstrates the ability to understand video through continuous train
 
 VoCo-LLaMA presents a promising way to unlock the full potential of VLMs' contextual window.
 
-![image](https://github.com/Yxxxb/VoCo-LLaMA/blob/main/IMG/structure.jpg)
 ![image](https://i.imgur.com/wznshA6.jpeg)
 
 ## News
