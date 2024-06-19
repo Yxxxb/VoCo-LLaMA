@@ -93,6 +93,21 @@ bash scripts/finetune.sh
 
 There are evaluations about visual understanding we follow the relevant settings in LLaVA. Please refer to the LLaVA official [repository](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md) for details of data setup and testing.
 
+## Citation
+
+If you find this work useful, please consider citing our paper:
+
+```bash
+@article{ye2024voco,
+  author={Ye, Xubing and Gan, Yukang and Huang, Xiaoke and Ge, Yixiao and Shan, Ying and Tang, Yansong},
+  title={{VoCo-LLaMA: Towards Vision Compression with Large Language Models}},
+  journal={arXiv preprint arXiv:2406.12275},
+  year={2024},
+}
+```
+
+## 
+
 ## Acknowledgement
 
 - [LLaVA](https://github.com/haotian-liu/LLaVA): the codebase we built upon.
