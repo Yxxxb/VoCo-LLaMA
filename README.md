@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href='https://arxiv.org/abs/2406.12275'>
-  <img src='https://img.shields.io/badge/Arxiv-2404.19759-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
+  <img src='https://img.shields.io/badge/Arxiv-2406.12275-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
   <a href='https://arxiv.org/pdf/2406.12275'>
   <img src='https://img.shields.io/badge/Paper-PDF-purple?style=flat&logo=arXiv&logoColor=yellow'></a> 
   <a href='https://yxxxb.github.io/VoCo-LLaMA-page/'>
