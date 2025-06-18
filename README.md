@@ -98,11 +98,13 @@ There are evaluations about visual understanding we follow the relevant settings
 If you find this work useful, please consider citing our paper:
 
 ```bash
-@article{ye2024voco,
-  title={Voco-llama: Towards vision compression with large language models},
-  author={Ye, Xubing and Gan, Yukang and Huang, Xiaoke and Ge, Yixiao and Tang, Yansong},
-  journal={arXiv preprint arXiv:2406.12275},
-  year={2024}
+@InProceedings{Ye_2025_CVPR,
+    author    = {Ye, Xubing and Gan, Yukang and Huang, Xiaoke and Ge, Yixiao and Tang, Yansong},
+    title     = {VoCo-LLaMA: Towards Vision Compression with Large Language Models},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {29836-29846}
 }
 ```
 
